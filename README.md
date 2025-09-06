@@ -88,5 +88,5 @@ curl -X GET "http://localhost:5000/search?q=python"
 This is my resume [Saatvik Pathak Resume](https://drive.google.com/file/d/1eAlRB-wDkrPMHr7_dBYeWFWXJmNVvXTD/view).
 
 ## Live Demo
-- [Backend](https://drive.google.com/file/d/1eAlRB-wDkrPMHr7_dBYeWFWXJmNVvXTD/view)
-- [FrontEnd](https://drive.google.com/file/d/1eAlRB-wDkrPMHr7_dBYeWFWXJmNVvXTD/view)
+- [Backend](https://meapiplayground.onrender.com/health)
+- [FrontEnd](http://localhost:3000/)
